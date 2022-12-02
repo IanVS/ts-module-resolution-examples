@@ -4,7 +4,7 @@
   "description": "",
   "main": "root.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "repro": "tsc -p src/NodeNext/test/tsconfig.json"
   },
   "author": "",
   "license": "MIT",
