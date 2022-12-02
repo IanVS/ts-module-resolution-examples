@@ -4,7 +4,8 @@
   "description": "",
   "main": "root.js",
   "scripts": {
-    "repro": "tsc -p src/NodeNext/test/tsconfig.json"
+    "repro": "tsc -p src/NodeNext/test/tsconfig.json",
+    "generate-export-types": "tsc -p src/NodeNext/test/tsconfig.json --emitDeclarationOnly --declaration"
   },
   "author": "",
   "license": "MIT",

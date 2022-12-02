@@ -1,10 +1,11 @@
 {
   "compilerOptions": {
-    // "allowJs": false,
     "moduleResolution": "NodeNext",
     "target": "ESNext",
     "module": "ESNext",
-    "noEmit": true,
+    "declaration": true,
+    "emitDeclarationOnly": true,
     "traceResolution": true
   },
+  "include": ["foo.cts", "foo.mts"]
 }
