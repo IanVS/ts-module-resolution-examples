@@ -1,0 +1,7 @@
+{
+  "main": "./project.js",
+  "types": "./project.d.ts",
+  "typesVersions": {
+    ">=4.0": { "*.d.ts": ["*.v4.d.ts"] }
+  }
+}

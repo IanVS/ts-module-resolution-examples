@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    // "allowJs": false,
+    "moduleResolution": "NodeNext",
+    "target": "ESNext",
+    "module": "ESNext",
+    "noEmit": true,
+    "traceResolution": true
+  },
+}
