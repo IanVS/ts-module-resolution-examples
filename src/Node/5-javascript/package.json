@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "npx tsc -p tsconfig.json",
+    "build-allowjs": "npx tsc -p tsconfig-allowjs.json"
+  }
+}
