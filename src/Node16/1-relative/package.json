@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "build-cjs": "tsc -p tsconfig-cjs.json",
+    "build-esm": "tsc -p tsconfig-esm.json",
+    "build-extensionless": "tsc -p tsconfig-extensionless.json"
+  }
+}

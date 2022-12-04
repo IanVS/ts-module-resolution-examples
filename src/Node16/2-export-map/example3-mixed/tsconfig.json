@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "NodeNext",
+    "target": "ESNext",
+    "module": "ESNext",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "traceResolution": true
+  },
+  "include": ["mixed.cts"]
+}

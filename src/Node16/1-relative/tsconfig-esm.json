@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "NodeNext",
+    "target": "ESNext",
+    "module": "NodeNext",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "traceResolution": true
+  },
+  "include": ["example-esm.mts"]
+}
