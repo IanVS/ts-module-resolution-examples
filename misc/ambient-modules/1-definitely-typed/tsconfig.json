@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "typeRoots": ["node_modules/@types", "./typings"],
     "declaration": true,
     "emitDeclarationOnly": true,
     "traceResolution": true
   },
+  "include": ["example.ts"]
 }
