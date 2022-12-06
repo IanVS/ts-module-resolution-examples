@@ -1,8 +1,0 @@
-{
-  "compilerOptions": {
-    // "allowJs": false,
-    "moduleResolution": "node",
-    // "noEmit": true
-  },
-  "include": ["./src/node"]
-}
