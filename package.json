@@ -1,13 +1,8 @@
 {
   "name": "ts-module-resolution-example-node",
   "version": "1.0.0",
-  "description": "",
-  "main": "root.js",
-  "scripts": {
-    "repro": "tsc -p src/NodeNext/test/tsconfig.json",
-    "generate-export-types": "tsc -p src/NodeNext/test/tsconfig.json --emitDeclarationOnly --declaration"
-  },
-  "author": "",
+  "description": "Examples of TypeScript module resolution",
+  "author": "Ian VanSchooten",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^4.9.3"
