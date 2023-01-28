@@ -18,7 +18,7 @@ Table of contents:
 
 ## About this project
 
-This was initially created for a talk at Michigan TypeScript Developers.  // TODO: add link to recording.
+This was initially created for [a talk](https://www.youtube.com/watch?v=MEl2R7mEAP8) at Michigan TypeScript Developers.
 
 The repository is roughly organized around TypeScript settings, with subfolders for possible values for those settings
 and examples demonstrating various aspects of module resolution.  There are `README.md` files in most examples to
