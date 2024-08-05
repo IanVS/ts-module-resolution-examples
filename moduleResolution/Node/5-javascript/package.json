@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "npx tsc -p tsconfig.json",
-    "build-allowjs": "npx tsc -p tsconfig-allowjs.json"
+    "build": "npx tsc -p tsconfig.json --outDir dist",
+    "build-allowjs": "npx tsc -p tsconfig-allowjs.json --outDir dist"
   }
 }

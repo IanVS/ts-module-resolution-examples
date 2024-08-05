@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "build-cjs": "tsc -p tsconfig-cjs.json",
-    "build-esm": "tsc -p tsconfig-esm.json",
-    "build-extensionless": "tsc -p tsconfig-extensionless.json"
+    "build-cjs": "tsc -p tsconfig-cjs.json --outDir dist",
+    "build-esm": "tsc -p tsconfig-esm.json --outDir dist",
+    "build-extensionless": "tsc -p tsconfig-extensionless.json --outDir dist"
   }
 }
