@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "npx tsc -p tsconfig.json"
+    "build": "npx tsc -p tsconfig.json --outDir dist"
   }
 }

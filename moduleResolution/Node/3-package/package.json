@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build1": "npx tsc -p tsconfig1.json",
-    "build2": "npx tsc -p tsconfig2.json"
+    "build1": "npx tsc -p tsconfig1.json --outDir dist",
+    "build2": "npx tsc -p tsconfig2.json --outDir dist"
   }
 }
